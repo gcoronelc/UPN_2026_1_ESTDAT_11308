@@ -1,0 +1,7 @@
+D:\EGCC\UPN_2026_1_ESTDAT_11308\Semana03_08ABR26\ProyectoListaDoble\ProyectoListaDoble\bin\Debug\ProyectoListaDoble.exe.config
+D:\EGCC\UPN_2026_1_ESTDAT_11308\Semana03_08ABR26\ProyectoListaDoble\ProyectoListaDoble\bin\Debug\ProyectoListaDoble.exe
+D:\EGCC\UPN_2026_1_ESTDAT_11308\Semana03_08ABR26\ProyectoListaDoble\ProyectoListaDoble\bin\Debug\ProyectoListaDoble.pdb
+D:\EGCC\UPN_2026_1_ESTDAT_11308\Semana03_08ABR26\ProyectoListaDoble\ProyectoListaDoble\obj\Debug\ProyectoListaDoble.csproj.AssemblyReference.cache
+D:\EGCC\UPN_2026_1_ESTDAT_11308\Semana03_08ABR26\ProyectoListaDoble\ProyectoListaDoble\obj\Debug\ProyectoListaDoble.csproj.CoreCompileInputs.cache
+D:\EGCC\UPN_2026_1_ESTDAT_11308\Semana03_08ABR26\ProyectoListaDoble\ProyectoListaDoble\obj\Debug\ProyectoListaDoble.exe
+D:\EGCC\UPN_2026_1_ESTDAT_11308\Semana03_08ABR26\ProyectoListaDoble\ProyectoListaDoble\obj\Debug\ProyectoListaDoble.pdb

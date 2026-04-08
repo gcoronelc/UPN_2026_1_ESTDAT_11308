@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\EGCC\\UPN_2026_1_ESTDAT_11308\\Semana03_08ABR26\\ProyectoListaDoble\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1908A6AD-A0EA-4BE4-8731-43FAF0B77C2D}|ProyectoListaDoble\\ProyectoListaDoble.csproj|d:\\egcc\\upn_2026_1_estdat_11308\\semana03_08abr26\\proyectolistadoble\\proyectolistadoble\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1908A6AD-A0EA-4BE4-8731-43FAF0B77C2D}|ProyectoListaDoble\\ProyectoListaDoble.csproj|solutionrelative:proyectolistadoble\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1908A6AD-A0EA-4BE4-8731-43FAF0B77C2D}|ProyectoListaDoble\\ProyectoListaDoble.csproj|d:\\egcc\\upn_2026_1_estdat_11308\\semana03_08abr26\\proyectolistadoble\\proyectolistadoble\\listadoble.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1908A6AD-A0EA-4BE4-8731-43FAF0B77C2D}|ProyectoListaDoble\\ProyectoListaDoble.csproj|solutionrelative:proyectolistadoble\\listadoble.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1908A6AD-A0EA-4BE4-8731-43FAF0B77C2D}|ProyectoListaDoble\\ProyectoListaDoble.csproj|d:\\egcc\\upn_2026_1_estdat_11308\\semana03_08abr26\\proyectolistadoble\\proyectolistadoble\\nododoble.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1908A6AD-A0EA-4BE4-8731-43FAF0B77C2D}|ProyectoListaDoble\\ProyectoListaDoble.csproj|solutionrelative:proyectolistadoble\\nododoble.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1908A6AD-A0EA-4BE4-8731-43FAF0B77C2D}|ProyectoListaDoble\\ProyectoListaDoble.csproj|d:\\egcc\\upn_2026_1_estdat_11308\\semana03_08abr26\\proyectolistadoble\\proyectolistadoble\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1908A6AD-A0EA-4BE4-8731-43FAF0B77C2D}|ProyectoListaDoble\\ProyectoListaDoble.csproj|solutionrelative:proyectolistadoble\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ListaDoble.cs",
+              "DocumentMoniker": "D:\\EGCC\\UPN_2026_1_ESTDAT_11308\\Semana03_08ABR26\\ProyectoListaDoble\\ProyectoListaDoble\\ListaDoble.cs",
+              "RelativeDocumentMoniker": "ProyectoListaDoble\\ListaDoble.cs",
+              "ToolTip": "D:\\EGCC\\UPN_2026_1_ESTDAT_11308\\Semana03_08ABR26\\ProyectoListaDoble\\ProyectoListaDoble\\ListaDoble.cs",
+              "RelativeToolTip": "ProyectoListaDoble\\ListaDoble.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAYwA8AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-08T18:09:33.281Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NodoDoble.cs",
+              "DocumentMoniker": "D:\\EGCC\\UPN_2026_1_ESTDAT_11308\\Semana03_08ABR26\\ProyectoListaDoble\\ProyectoListaDoble\\NodoDoble.cs",
+              "RelativeDocumentMoniker": "ProyectoListaDoble\\NodoDoble.cs",
+              "ToolTip": "D:\\EGCC\\UPN_2026_1_ESTDAT_11308\\Semana03_08ABR26\\ProyectoListaDoble\\ProyectoListaDoble\\NodoDoble.cs",
+              "RelativeToolTip": "ProyectoListaDoble\\NodoDoble.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-08T18:06:16.796Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "D:\\EGCC\\UPN_2026_1_ESTDAT_11308\\Semana03_08ABR26\\ProyectoListaDoble\\ProyectoListaDoble\\Producto.cs",
+              "RelativeDocumentMoniker": "ProyectoListaDoble\\Producto.cs",
+              "ToolTip": "D:\\EGCC\\UPN_2026_1_ESTDAT_11308\\Semana03_08ABR26\\ProyectoListaDoble\\ProyectoListaDoble\\Producto.cs",
+              "RelativeToolTip": "ProyectoListaDoble\\Producto.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwBgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-08T17:58:44.812Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\EGCC\\UPN_2026_1_ESTDAT_11308\\Semana03_08ABR26\\ProyectoListaDoble\\ProyectoListaDoble\\Program.cs",
+              "RelativeDocumentMoniker": "ProyectoListaDoble\\Program.cs",
+              "ToolTip": "D:\\EGCC\\UPN_2026_1_ESTDAT_11308\\Semana03_08ABR26\\ProyectoListaDoble\\ProyectoListaDoble\\Program.cs",
+              "RelativeToolTip": "ProyectoListaDoble\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-08T17:58:23.188Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
