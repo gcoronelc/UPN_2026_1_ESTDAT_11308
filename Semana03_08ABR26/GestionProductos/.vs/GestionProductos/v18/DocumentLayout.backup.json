@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "D:\\EGCC\\UPN_2026_1_ESTDAT_11308\\Semana03_08ABR26\\GestionProductos\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{35953C93-A683-47A6-8344-7F2291EF9E82}|GestionProductos\\GestionProductos.csproj|d:\\egcc\\upn_2026_1_estdat_11308\\semana03_08abr26\\gestionproductos\\gestionproductos\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35953C93-A683-47A6-8344-7F2291EF9E82}|GestionProductos\\GestionProductos.csproj|solutionrelative:gestionproductos\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{35953C93-A683-47A6-8344-7F2291EF9E82}|GestionProductos\\GestionProductos.csproj|d:\\egcc\\upn_2026_1_estdat_11308\\semana03_08abr26\\gestionproductos\\gestionproductos\\listaenlazada.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{35953C93-A683-47A6-8344-7F2291EF9E82}|GestionProductos\\GestionProductos.csproj|solutionrelative:gestionproductos\\listaenlazada.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{35953C93-A683-47A6-8344-7F2291EF9E82}|GestionProductos\\GestionProductos.csproj|d:\\egcc\\upn_2026_1_estdat_11308\\semana03_08abr26\\gestionproductos\\gestionproductos\\nodo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{35953C93-A683-47A6-8344-7F2291EF9E82}|GestionProductos\\GestionProductos.csproj|solutionrelative:gestionproductos\\nodo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{35953C93-A683-47A6-8344-7F2291EF9E82}|GestionProductos\\GestionProductos.csproj|d:\\egcc\\upn_2026_1_estdat_11308\\semana03_08abr26\\gestionproductos\\gestionproductos\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{35953C93-A683-47A6-8344-7F2291EF9E82}|GestionProductos\\GestionProductos.csproj|solutionrelative:gestionproductos\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{35953C93-A683-47A6-8344-7F2291EF9E82}|GestionProductos\\GestionProductos.csproj|d:\\egcc\\upn_2026_1_estdat_11308\\semana03_08abr26\\gestionproductos\\gestionproductos\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -30,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
@@ -46,7 +46,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "ListaEnlazada.cs",
               "DocumentMoniker": "D:\\EGCC\\UPN_2026_1_ESTDAT_11308\\Semana03_08ABR26\\GestionProductos\\GestionProductos\\ListaEnlazada.cs",
               "RelativeDocumentMoniker": "GestionProductos\\ListaEnlazada.cs",
@@ -59,7 +59,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Nodo.cs",
               "DocumentMoniker": "D:\\EGCC\\UPN_2026_1_ESTDAT_11308\\Semana03_08ABR26\\GestionProductos\\GestionProductos\\Nodo.cs",
               "RelativeDocumentMoniker": "GestionProductos\\Nodo.cs",
@@ -71,15 +71,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Producto.cs",
               "DocumentMoniker": "D:\\EGCC\\UPN_2026_1_ESTDAT_11308\\Semana03_08ABR26\\GestionProductos\\GestionProductos\\Producto.cs",
               "RelativeDocumentMoniker": "GestionProductos\\Producto.cs",
               "ToolTip": "D:\\EGCC\\UPN_2026_1_ESTDAT_11308\\Semana03_08ABR26\\GestionProductos\\GestionProductos\\Producto.cs",
               "RelativeToolTip": "GestionProductos\\Producto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAYAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-07T17:03:08.783Z"
+              "WhenOpened": "2026-04-07T17:03:08.783Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",

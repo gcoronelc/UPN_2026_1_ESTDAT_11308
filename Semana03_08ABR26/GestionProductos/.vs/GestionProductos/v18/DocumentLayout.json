@@ -54,8 +54,7 @@
               "RelativeToolTip": "GestionProductos\\ListaEnlazada.cs",
               "ViewState": "AgIAAFUAAAAAAAAAAAAcwFcAAABFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-07T17:03:08.777Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-07T17:03:08.777Z"
             },
             {
               "$type": "Document",
@@ -75,9 +74,9 @@
               "Title": "Producto.cs",
               "DocumentMoniker": "D:\\EGCC\\UPN_2026_1_ESTDAT_11308\\Semana03_08ABR26\\GestionProductos\\GestionProductos\\Producto.cs",
               "RelativeDocumentMoniker": "GestionProductos\\Producto.cs",
-              "ToolTip": "D:\\EGCC\\UPN_2026_1_ESTDAT_11308\\Semana03_08ABR26\\GestionProductos\\GestionProductos\\Producto.cs",
-              "RelativeToolTip": "GestionProductos\\Producto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
+              "ToolTip": "D:\\EGCC\\UPN_2026_1_ESTDAT_11308\\Semana03_08ABR26\\GestionProductos\\GestionProductos\\Producto.cs*",
+              "RelativeToolTip": "GestionProductos\\Producto.cs*",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwBMAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-07T17:03:08.783Z",
               "EditorCaption": ""
