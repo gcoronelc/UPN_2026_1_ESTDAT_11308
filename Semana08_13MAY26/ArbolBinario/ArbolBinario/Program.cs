@@ -21,12 +21,17 @@ namespace ArbolBinario
             arbol.AgregarNodo(80);
             arbol.AgregarNodo(20);
             arbol.AgregarNodo(55);
+
+            arbol.MostrarArbol();
+
+            
             Console.WriteLine("-------------------------------------------------------------");
             arbol.ImprimirInOrden();
             Console.WriteLine("-------------------------------------------------------------");
             arbol.ImprimirPreOrden();
             Console.WriteLine("-------------------------------------------------------------");
             arbol.ImprimirPostOrden();
+            
 
         }
     }
